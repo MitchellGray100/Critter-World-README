@@ -43,3 +43,66 @@ Shows time being stepped. Food randomly spawns in the world.
 
 Empty world with no critters. Only rocks and food.
 ![World with No Critters](https://github.com/MitchellGray100/Critter-World-README/blob/main/Screenshots/image10.png)
+
+Image of Food.
+<br />
+![Picture of Food](https://github.com/MitchellGray100/Critter-World-README/blob/main/Assets/Food.png)
+
+
+Image of Rock.
+<br />
+![Picture of Food](https://github.com/MitchellGray100/Critter-World-README/blob/main/Assets/Rock.png)
+
+All Critter Variations:
+<br />
+<br />
+<br />
+<br />
+![Picture of Critter](https://github.com/MitchellGray100/Critter-World-README/blob/main/Assets/hexagonCritterAmerican.png)
+
+![Picture of Critter](https://github.com/MitchellGray100/Critter-World-README/blob/main/Assets/hexagonCritterBlue.png)
+
+![Picture of Critter](https://github.com/MitchellGray100/Critter-World-README/blob/main/Assets/hexagonCritterBrightBlue.png)
+
+![Picture of Critter](https://github.com/MitchellGray100/Critter-World-README/blob/main/Assets/hexagonCritterBrightPink.png)
+
+![Picture of Critter](https://github.com/MitchellGray100/Critter-World-README/blob/main/Assets/hexagonCritterDarkBlue.png)
+
+![Picture of Critter](https://github.com/MitchellGray100/Critter-World-README/blob/main/Assets/hexagonCritterDarkGray.png)
+
+![Picture of Critter](https://github.com/MitchellGray100/Critter-World-README/blob/main/Assets/hexagonCritterDarkOrange.png)
+
+![Picture of Critter](https://github.com/MitchellGray100/Critter-World-README/blob/main/Assets/hexagonCritterDarkPurple.png)
+
+![Picture of Critter](https://github.com/MitchellGray100/Critter-World-README/blob/main/Assets/hexagonCritterForestGreen.png)
+
+![Picture of Critter](https://github.com/MitchellGray100/Critter-World-README/blob/main/Assets/hexagonCritterGray.png)
+
+![Picture of Critter](https://github.com/MitchellGray100/Critter-World-README/blob/main/Assets/hexagonCritterLightGreen.png)
+
+![Picture of Critter](https://github.com/MitchellGray100/Critter-World-README/blob/main/Assets/hexagonCritterLightPink.png)
+
+![Picture of Critter](https://github.com/MitchellGray100/Critter-World-README/blob/main/Assets/hexagonCritterLightYellow.png)
+
+![Picture of Critter](https://github.com/MitchellGray100/Critter-World-README/blob/main/Assets/hexagonCritterLime.png)
+
+![Picture of Critter](https://github.com/MitchellGray100/Critter-World-README/blob/main/Assets/hexagonCritterMaroon.png)
+
+![Picture of Critter](https://github.com/MitchellGray100/Critter-World-README/blob/main/Assets/hexagonCritterOrange.png)
+
+![Picture of Critter](https://github.com/MitchellGray100/Critter-World-README/blob/main/Assets/hexagonCritterPink.png)
+
+![Picture of Critter](https://github.com/MitchellGray100/Critter-World-README/blob/main/Assets/hexagonCritterPurple.png)
+
+![Picture of Critter](https://github.com/MitchellGray100/Critter-World-README/blob/main/Assets/hexagonCritterRainbow.png)
+
+![Picture of Critter](https://github.com/MitchellGray100/Critter-World-README/blob/main/Assets/hexagonCritterRed.png)
+
+![Picture of Critter](https://github.com/MitchellGray100/Critter-World-README/blob/main/Assets/hexagonCritterSkyBlue.png)
+
+![Picture of Critter](https://github.com/MitchellGray100/Critter-World-README/blob/main/Assets/hexagonCritterTan.png)
+
+![Picture of Critter](https://github.com/MitchellGray100/Critter-World-README/blob/main/Assets/hexagonCritterWhite.png)
+
+![Picture of Critter](https://github.com/MitchellGray100/Critter-World-README/blob/main/Assets/hexagonCritterYellow.png)
+
