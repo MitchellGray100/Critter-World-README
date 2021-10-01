@@ -8,9 +8,9 @@ Example World File: https://github.com/MitchellGray100/Critter-World-README/blob
 Project Grammar: http://www.cs.cornell.edu/courses/cs2112/2021fa/project/grammar.txt
 
 The project is on our Cornell github accounts. It can't be made public for Academic Integrity reasons.
-
-
-
+<br />
+<br />
+<br />
 Shows a large critter near different sized foods and a rock. Text Appears when hovering over buttons.
 The critter was clicked so the information related to the critter appears on the left hand side.
 The number of time-steppings made is displayed on the left.
