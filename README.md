@@ -27,6 +27,7 @@ Shows a large critter near different sized foods and a rock. Text Appears when h
 The critter was clicked so the information related to the critter appears on the left hand side.
 The number of time-steppings made is displayed on the left.
 ![Critter With Food](https://github.com/MitchellGray100/Critter-World-README/blob/main/Screenshots/image1.png)
+
 The Program can be zoomed in with the slider bar
 ![Program zooms in more](https://github.com/MitchellGray100/Critter-World-README/blob/main/Screenshots/image2.png)
 
