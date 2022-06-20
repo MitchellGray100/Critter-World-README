@@ -1,8 +1,4 @@
 # Critter-World-README
-___
-The project is on our Cornell github accounts. It can't be made public for Academic Integrity reasons.
-___
-<br />
 
 ## Team 
 Our team consisted of:<br>
@@ -28,7 +24,6 @@ ___
 
 
 
-<br />
 <br />
 
 ## Images of Game
