@@ -4,7 +4,17 @@ The project is on our Cornell github accounts. It can't be made public for Acade
 ___
 <br />
 
-# Files
+## Team 
+Our team consisted of:<br>
+
+[Mitchell Gray](https://github.com/MitchellGray100);<br>
+[Jacob Kerr](https://github.com/jakejack13);<br>
+[Sabrina Li](https://www.linkedin.com/in/sabrina-li-a895b21b5/);<br>
+
+## Disclaimer
+We sadly can't upload any source code since the project was for a class project which would lead to an academic integrity violation; however, source code can be requested by job recruiters!
+
+## Files
 
 Critter World Specification: http://www.cs.cornell.edu/courses/cs2112/2021fa/project/project.pdf?1632534588
 
@@ -21,7 +31,7 @@ ___
 <br />
 <br />
 
-# Images of Game
+## Images of Game
 
 Shows a large critter near different sized foods and a rock. Text Appears when hovering over buttons.
 The critter was clicked so the information related to the critter appears on the left hand side.
